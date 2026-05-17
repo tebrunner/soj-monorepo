@@ -1,0 +1,57 @@
+# Node modules
+node_modules/
+
+# Vite cache
+.vite/
+
+# Build output
+dist/
+
+# Dependency directories
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.DS_Store
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Environment files
+.env
+.env.*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Mac system files
+.DS_Store
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Coverage
+coverage/
+
+# JetBrains IDE
+/.idea/
+
+# Generated lockfile metadata
+package-lock.json
+pnpm-lock.yaml
+
+# Optional: local config
+.vscode/
